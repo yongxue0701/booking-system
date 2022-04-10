@@ -1,6 +1,6 @@
 package main
 
-import "booking-system/api"
+import "flight-booking/api"
 
 func main() {
 	api.HandleRequests()

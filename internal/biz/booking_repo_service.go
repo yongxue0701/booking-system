@@ -1,6 +1,6 @@
 package biz
 
-import "booking-system/internal/data"
+import "flight-booking/internal/data"
 
 type BookingRepoService interface {
 	Create() (*data.Booking, error)

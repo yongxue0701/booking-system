@@ -3,8 +3,8 @@ package service
 import (
 	"net/http"
 
-	"booking-system/internal/biz"
-	"booking-system/internal/dto"
+	"flight-booking/internal/biz"
+	"flight-booking/internal/dto"
 )
 
 type BookingService struct {

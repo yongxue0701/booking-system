@@ -3,7 +3,7 @@ package dto
 import (
 	"time"
 
-	"booking-system/internal/data"
+	"flight-booking/internal/data"
 )
 
 type FlightDto struct {

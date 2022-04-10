@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"booking-system/internal/data"
-	"booking-system/internal/service"
+	"flight-booking/internal/data"
+	"flight-booking/internal/service"
 )
 
 func createFlight(w http.ResponseWriter, r *http.Request) {

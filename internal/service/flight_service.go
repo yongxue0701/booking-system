@@ -1,9 +1,10 @@
 package service
 
 import (
-	"booking-system/internal/biz"
-	"booking-system/internal/dto"
 	"net/http"
+
+	"flight-booking/internal/biz"
+	"flight-booking/internal/dto"
 )
 
 type FlightService struct {
